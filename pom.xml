@@ -4,7 +4,7 @@
   <groupId>com.maaven.practice</groupId>
   <artifactId>devpackage</artifactId>
   <packaging>jar</packaging>
-  <version>1.0-PACKAGE</version>
+  <version>1.0-SNAPSHOTS</version>
   
   <dependencies>
     <dependency>
